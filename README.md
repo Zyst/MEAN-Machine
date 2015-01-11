@@ -5,6 +5,6 @@ Always been a huge fan of the website, when I saw they had a book I instantly bo
 
 Although it may be at a slow pace because of work-stuff I'm planning on dropping the book 'course work' here.
 
-Everything in the book has code samples in [https://github.com/scotch-io/mean-machine-code](this git). And that itself is distributed under the [http://opensource.org/licenses/MIT](MIT License).
+Everything in the book has code samples in [https://github.com/scotch-io/mean-machine-code](this git) and that itself is distributed under the [http://opensource.org/licenses/MIT](MIT License)
 
-As such all the code inside this repo can also be freely used under the [http://opensource.org/licenses/MIT](MIT License).
+As such all the code inside this repo can also be freely used under the [http://opensource.org/licenses/MIT](MIT License) .
