@@ -1,5 +1,5 @@
-# MEAN-Machine
-The people over at [scotch.io](scotch.io) who have some amazing tutorials made this [https://leanpub.com/mean-machine](book).
+##MEAN-Machine
+The people over at [scotch.io](scotch.io) who have some amazing tutorials made this [https://leanpub.com/mean-machine](book)
 
 Always been a huge fan of the website, when I saw they had a book I instantly bought it.
 
