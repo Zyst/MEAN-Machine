@@ -1,7 +1,7 @@
 ##MEAN-Machine
 The people over at [scotch.io](scotch.io) who have some amazing tutorials made this [book](https://leanpub.com/mean-machine).
 
-Always been a huge fan of the website, when I saw they had a book I instantly bought it.
+I have always been a huge fan of the website, when I saw they had a book I instantly bought it.
 
 Although it may be at a slow pace because of work-stuff I'm planning on dropping the book 'course work' here.
 
