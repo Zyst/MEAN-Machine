@@ -59,7 +59,7 @@ adminRouter.get("/users/:name", function(req, res) {
 
 // App route start for /login
 app.route("/login")
-    //  Show the form (GET http://localhost:1337/login)
+    // Show the form (GET http://localhost:1337/login)
     .get(function(req, res) {
         res.send("This is the login form");
     })
