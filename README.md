@@ -8,3 +8,5 @@ Although it may be at a slow pace because of work-stuff I'm planning on dropping
 Everything in the book has code samples in [this git](https://github.com/scotch-io/mean-machine-code) and that itself is distributed under the [MIT License](http://opensource.org/licenses/MIT).
 
 As such all the code inside this repo can also be freely used under the [MIT License](http://opensource.org/licenses/MIT).
+
+As of January 15, 2015 the book content has been finished! Great book, would greatly recommend it.
